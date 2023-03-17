@@ -1,0 +1,24 @@
+	
+            1:-Why do w start larning a programming languag with “Hllo World!
+
+	ANS :- <p>hello world</p> for cheking run in browser...
+
+          2:- How is th us of commnts and how do you writ commnts in HTml.
+
+	ANS :- Hello world !!!!!!!!
+	         <!-- <p>Hello mujtaba!!!!</p> -->
+
+         3:-  What ar lmnts tags and attributs and th diffrnc btwn them.
+
+	ANS :-     <img src="/.image.jpg" alt="flower">
+
+	               	  (attribute :- src is image tag attribute.),  
+	              	  (tag :- img is tag , p is tag ) ,
+	               	  (element :-  tag + attribute +content),....
+
+        4:-Brifly Eplain what HTML Entitis are.
+
+	ANS :-  An html entities is a piece of text ("string") that begins with an ampersand(&) and ends with a semicolon(;) . entities are frequently 	            used to dispay reserved charachters (which would otherwise be interpreted as html code) , and invisible characters (like non -	                               breaking space)..
+			ex :- <p> 5 & LT; 6 </p>;		
+        
+	

@@ -1,0 +1,14 @@
+	
+	1:- List all the tools yo might se s  web developer.
+	ans:- vscode ,
+	         prettier ,
+	         Rename Tag ,
+	        Closeing Tag ,
+	        live server ,
+	       open in browser ,
+	     
+   	2:- Wht re some of the fetures of PW Skills Online Lab? Explin how they re sefl.
+
+	ans:- aceess of all langage preparation like(node js, react js, express js, c,c++,java ,act......)and other benefits....
+
+	       
