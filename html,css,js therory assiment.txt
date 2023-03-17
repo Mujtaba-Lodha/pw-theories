@@ -1,0 +1,12 @@
+	
+	1:- what is html .
+	ans :-   html stands for hyper text markup language.html language for creating web page and structure of web page.
+
+  	2:- what is css.
+	 ans:-   css cascading style sheets. css describes how html element are to be displayed on screen, paper,or in others media.control the layout 	             of multipleweb pages all at once.
+	
+	3:- why did Javascript come into the picture.
+	ans:- Netscape wanted a simpler companion script to java that mimicked what microsoft was offering .this is where breanch eich,fathers of 	          Javascript, comes into the picture..
+
+	4:- history of javascript and ecmascript Explain in your wards.
+	ans:-  It was devloper for netscape 2 ,and became the ECMA-262 standard in 1997. after netscape handed Javascript over the ECMA.the 	          mozila foundaton continued to devlop,javascript fro the firefox browser.Mozilla latest version was 1.8.5.(es6)
